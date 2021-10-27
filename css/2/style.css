@@ -1,0 +1,25 @@
+#main{
+    width: 800px;
+    height: 800px;
+    background-color: black;
+    position: relative;
+}
+#mid{
+width: 450px;
+height: 550px;
+background-color: yellow;
+position: absolute ;
+right: 0px;
+bottom: 0px;
+z-index: 1;
+
+}
+#cen{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    right: 0px;
+    top: 50px;
+}
+
